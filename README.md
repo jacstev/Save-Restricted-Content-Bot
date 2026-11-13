@@ -108,8 +108,8 @@ To run the bot, you'll need to configure a few sensitive variables. Here's how t
    ```bash
    sudo apt update
    sudo apt install ffmpeg git python3-pip
-   git clone your_repo_link
-   cd your_repo_name
+   git clone [your_repo_link](https://github.com/jacstev/Save-Restricted-Content-Bot.git)
+   cd Save-Restricted-Content-Bo
    pip3 install -r requirements.txt
    python3 main.py
    ```
